@@ -1,7 +1,7 @@
 # Shuntr
 
-This repo is a minimalist Chrome extension to redirect files. I use it to redirect production scripts to local ones, but I can also be used for images, stylesheets, html...
-Nothing is automatic, no interface, this is a simple dev tool: a boilerplate.
+This repo is a minimalist Chrome extension to redirect files. I use it to redirect production scripts to local ones, but it can also be used for images, stylesheets, html...
+Nothing is automatic, no interface, this is a simple boilerplate for devs.
 
 ## Usage
 
